@@ -1,30 +1,66 @@
-# FlutterPlaza
+[![FlutterPlaza logo - Your Flutter Educator & Service Provider.](/assets/flutter-plaza-github-banner.jpeg)](https://www.flutterplaza.com/)
 
-FlutterPlaza is a Flutter App Development Service and Educator.
-
-We aim to build tools and provide services that educate and improve access to flutter through our open source community and educator program. Providing solutions that are designed to be clean, beautiful and well architectured for both Open Source and paid closed projects.
-
-## Get started with FlutterPlaza
-
-To learn more about FlutterPlaza see [https://flutterplaza.com/](https://www.flutterplaza.com/)
+[![pub.dev](https://img.shields.io/badge/pub.dev-flutterplaza.com-brightgreen)](https://pub.dev/publishers/flutterplaza.com/packages)
+[![Twitter](https://img.shields.io/twitter/follow/FlutterPlaza?style=social)](https://twitter.com/FlutterPlaza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Followers-blue)](https://www.linkedin.com/company/flutterplaza)
 
 
-## Get involved
-Build with us and create exciting solutions by following our [contributing guide](). Everyone is welcome!
+## ✨ Welcome
+Welcome to the Open-Source (OSS) [FlutterPlaza Initiative](https://www.flutterplaza.com/) 🔥 
 
-## What we are up to
+FlutterPlaza seeks to build a talent pipeline within the Flutter ecosystem by providing accessible and affordable full stack courses 📚.  
+Also, FlutterPlaza aims to provide top notch development services with perks for open-source first organizations 👐.
+
+
+## 👩🏽‍💻 Contribute to FlutterPlaza
+First of all, thanks for getting involved! ✨
+
+In order to get started, please go through these two important resources:
+
+- [[Our Code of Conduct]](CODE_OF_CONDUCT.md) - this code of conduct outlines expectations for participation in FlutterPlaza-managed open source communities, as well as steps for reporting unacceptable behavior.
+
+- [[Contribution Guide]](CONTRIBUTING.md) - this document is a guide to help you through the process of contributing to FlutterPlaza projects ,
+
+There are many awesome ways to contribute to the FlutterPlaza Initiative. (Code isn't the only way to help out!) The table below gives you an idea of how contributions are recognized in the project.  
+
+
+Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
+:---: | :---: | :---: | :---: | :---: | :---:
+🐛 <br /> `bug` | Bug reports | 📝 <br /> `blog` | Blogposts | 💻 <br /> `code` | Code |
+📖 <br /> `doc` | Documentation | 🎨 <br /> `design` | Design | 💡 <br /> `example` | Examples |
+🤔 <br /> `ideas` | Ideas & Planning | 🚧 <br /> `maintenance` | Maintenance | 💬 <br /> `question` | Answering Questions | 
+👀 <br /> `review` | Reviewed Pull Requests | 📢 <br /> `talk` | Talks | 📹 <br /> `video` | Videos |  
+
+
+
+To figure out a great `first GitHub issue` to work on, look for issues tagged with `good-first-issue`
+
+Everyone is welcome! 🫂  We can't wait to meet you! 🤗
+
+
+## Current Projects
 
 ### Utilities
-Our open source solutions that provide estensions to flutter by allowing us to develop faster (packages) or have access to new functionalities and tools (plugins)
+Are you interested in getting to know what we are up to? search no more! Here are some of our more recent and ongoing projects:
 
-##### Plugins
-- [**no_screenshot**](https://github.com/FlutterPlaza/no_screenshot): Flutter plugin to enable, disable or toggle screenshot support in your application on both android and IOS.
 
-##### Packages
-- [**face_detection_lock**](https://github.com/FlutterPlaza/face_detection_lock): A flutter package for IOS and Android to secure all or part of your app under face detection.
+#### Plugins
+- [no_screenshot](https://github.com/FlutterPlaza/no_screenshot): a Flutter plugin to enable, disable or toggle screenshot support in your android or IOS application.
 
-### Projects
-Our other exciting open source projects
+#### Packages
+- [face_detection_lock](https://github.com/FlutterPlaza/face_detection_lock): a Flutter package for IOS and Android to secure all or part of your app under face detection.
 
-- [**FinFlow**](https://github.com/FlutterPlaza/FinFlow): An app built on focus on financial management and smooth, seamless transactions, to serve for a detailed learning experince to our educand.
-- [**finflow-grpc-backend**](https://github.com/FlutterPlaza/finflow-grpc-backend): Backend server for finflow app build with gRPC and dart with support for JWT auth, google, facebook, apple, and twitter Oauth2.
+### Mobile Applications
+Other exciting open-source projects
+
+- [finflow](https://github.com/FlutterPlaza/FinFlow): a financial management app that provides a seamless experience for users.
+
+- [finflow-grpc-backend](https://github.com/FlutterPlaza/finflow-grpc-backend): a backend server for finflow app build with gRPC and dart with support for JWT auth, google, facebook, apple, and twitter Oauth2.  
+
+
+
+🔗 [[Website]](https://www.flutterplaza.com/) | [[FlutterPlaza Packages]](https://pub.dev/publishers/flutterplaza.com/packages) | [[Twitter]](https://twitter.com/FlutterPlaza) | [[LinkedIn]](https://www.linkedin.com/company/flutterplaza)
+
+
+## References
+This document was adapted from the OSS [AsyncAPI Initiative](https://github.com/asyncapi).
