@@ -5,62 +5,168 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Followers-blue)](https://www.linkedin.com/company/flutterplaza)
 
 
-## ✨ Welcome
-Welcome to the Open-Source (OSS) [FlutterPlaza Initiative](https://www.flutterplaza.com/) 🔥 
+## We build software with security in mind.
 
-FlutterPlaza seeks to build a talent pipeline within the Flutter ecosystem by providing accessible and affordable full stack courses 📚.  
-Also, FlutterPlaza aims to provide top notch development services with perks for open-source first organizations 👐.
+FlutterPlaza is an open-source initiative shipping production-grade plugins that protect user privacy, lock down screen capture, stop overlay attacks, and bring native video playback to Flutter -- across **every platform**. If your app handles sensitive data, payments, or media, our packages have you covered.
 
 
-## 👩🏽‍💻 Contribute to FlutterPlaza
-First of all, thanks for getting involved! ✨
+## 📊 FlutterPlaza at a Glance
 
-In order to get started, please go through these two important resources:
-
-- [[Our Code of Conduct]](CODE_OF_CONDUCT.md) - this code of conduct outlines expectations for participation in FlutterPlaza-managed open source communities, as well as steps for reporting unacceptable behavior.
-
-- [[Contribution Guide]](CONTRIBUTING.md) - this document is a guide to help you through the process of contributing to FlutterPlaza projects ,
-
-There are many awesome ways to contribute to the FlutterPlaza Initiative. (Code isn't the only way to help out!) The table below gives you an idea of how contributions are recognized in the project.  
+| | |
+| :--- | :--- |
+| **60+** GitHub Stars | **79** Forks across the ecosystem |
+| **257** Pull Requests | **89** Issues tracked |
+| **18** Public Repositories | **152** PRs Merged |
 
 
-Emoji/Type | Represents | Emoji/Type | Represents | Emoji/Type | Represents |
-:---: | :---: | :---: | :---: | :---: | :---:
-🐛 <br /> `bug` | Bug reports | 📝 <br /> `blog` | Blogposts | 💻 <br /> `code` | Code |
-📖 <br /> `doc` | Documentation | 🎨 <br /> `design` | Design | 💡 <br /> `example` | Examples |
-🤔 <br /> `ideas` | Ideas & Planning | 🚧 <br /> `maintenance` | Maintenance | 💬 <br /> `question` | Answering Questions | 
-👀 <br /> `review` | Reviewed Pull Requests | 📢 <br /> `talk` | Talks | 📹 <br /> `video` | Videos |  
+---
 
 
+## 🛡️ App Security Suite
 
-To figure out a great `first GitHub issue` to work on, look for issues tagged with `good-first-issue`
+Everything you need to lock down your Flutter app in production.
 
-Everyone is welcome! 🫂  We can't wait to meet you! 🤗
+### no_screenshot
+> Prevent screenshots, detect screen recording, and show blur/color/image overlays in the app switcher.
+
+[![Pub Version](https://img.shields.io/pub/v/no_screenshot)](https://pub.dev/packages/no_screenshot)
+[![Pub Likes](https://img.shields.io/pub/likes/no_screenshot)](https://pub.dev/packages/no_screenshot)
+[![Pub Points](https://img.shields.io/pub/points/no_screenshot)](https://pub.dev/packages/no_screenshot)
+[![Pub Popularity](https://img.shields.io/pub/popularity/no_screenshot)](https://pub.dev/packages/no_screenshot)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/no_screenshot?style=social)](https://github.com/FlutterPlaza/no_screenshot)
+
+`Android` `iOS` `macOS` `Linux` `Windows` `Web`
+
+---
+
+### no_screen_mirror
+> Detect screen mirroring (AirPlay, Miracast), external display connections (HDMI, USB-C), and screen sharing in video calls.
+
+[![Pub Version](https://img.shields.io/pub/v/no_screen_mirror)](https://pub.dev/packages/no_screen_mirror)
+[![Pub Likes](https://img.shields.io/pub/likes/no_screen_mirror)](https://pub.dev/packages/no_screen_mirror)
+[![Pub Points](https://img.shields.io/pub/points/no_screen_mirror)](https://pub.dev/packages/no_screen_mirror)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/no_screen_mirror?style=social)](https://github.com/FlutterPlaza/no_screen_mirror)
+
+`Android` `iOS` `macOS` `Linux` `Windows` `Web`
+
+---
+
+### no_tapjack
+> Detect tapjacking and overlay attacks. Monitors for malicious overlays and filters obscured touch events.
+
+[![Pub Version](https://img.shields.io/pub/v/no_tapjack)](https://pub.dev/packages/no_tapjack)
+[![Pub Likes](https://img.shields.io/pub/likes/no_tapjack)](https://pub.dev/packages/no_tapjack)
+[![Pub Points](https://img.shields.io/pub/points/no_tapjack)](https://pub.dev/packages/no_tapjack)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/no_tapjack?style=social)](https://github.com/FlutterPlaza/no_tapjack)
+
+`Android` `iOS` `Web`
+
+---
+
+### secure_watermark
+> Visible watermark overlay for Flutter. Renders user ID, email, or timestamp over protected content to deter screenshots and trace leaks.
+
+[![Pub Version](https://img.shields.io/pub/v/secure_watermark)](https://pub.dev/packages/secure_watermark)
+[![Pub Likes](https://img.shields.io/pub/likes/secure_watermark)](https://pub.dev/packages/secure_watermark)
+[![Pub Points](https://img.shields.io/pub/points/secure_watermark)](https://pub.dev/packages/secure_watermark)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/secure_watermark?style=social)](https://github.com/FlutterPlaza/secure_watermark)
+
+`All platforms`
 
 
-## Current Projects
-
-### Utilities
-Are you interested in getting to know what we are up to? search no more! Here are some of our more recent and ongoing projects:
+---
 
 
-#### Plugins
-- [no_screenshot](https://github.com/FlutterPlaza/no_screenshot): a Flutter plugin to enable, disable or toggle screenshot support in your android or IOS application.
+## 🔐 Biometric & Identity
 
-#### Packages
-- [face_detection_lock](https://github.com/FlutterPlaza/face_detection_lock): a Flutter package for IOS and Android to secure all or part of your app under face detection.
+### face_detection_lock
+> Face detection lock screen widget. Drop it in -- your app unlocks when a face is detected.
 
-### Mobile Applications
-Other exciting open-source projects
+[![Pub Version](https://img.shields.io/pub/v/face_detection_lock)](https://pub.dev/packages/face_detection_lock)
+[![Pub Likes](https://img.shields.io/pub/likes/face_detection_lock)](https://pub.dev/packages/face_detection_lock)
+[![Pub Points](https://img.shields.io/pub/points/face_detection_lock)](https://pub.dev/packages/face_detection_lock)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/face_detection_lock?style=social)](https://github.com/FlutterPlaza/face_detection_lock)
 
-- [finflow](https://github.com/FlutterPlaza/FinFlow): a financial management app that provides a seamless experience for users.
+`Android` `iOS`
 
-- [finflow-grpc-backend](https://github.com/FlutterPlaza/finflow-grpc-backend): a backend server for finflow app build with gRPC and dart with support for JWT auth, google, facebook, apple, and twitter Oauth2.  
+---
 
+### face_gate
+> Drop-in face age verification for Flutter. Provider-agnostic, multi-platform, compliant by default. Ships with adapters for TFLite, CoreML, ONNX, ML Kit, and Cloud.
+
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/face_gate?style=social)](https://github.com/FlutterPlaza/face_gate)
+
+| Adapter | Description |
+| :--- | :--- |
+| `face_gate` | Core interface & camera widget |
+| `face_gate_tflite` | TensorFlow Lite provider |
+| `face_gate_coreml` | Apple CoreML provider |
+| `face_gate_onnx` | ONNX Runtime provider |
+| `face_gate_mlkit` | Google ML Kit provider |
+| `face_gate_cloud` | Cloud inference provider |
+| `face_gate_id_cloud` | Cloud identity verification provider |
+
+`Android` `iOS` `macOS` `Web`
+
+
+---
+
+
+## 🎬 Media
+
+### av_player
+> A powerful video player with native Picture-in-Picture, gesture controls, media notifications, and playlist management. Zero external dependencies.
+
+[![Pub Version](https://img.shields.io/pub/v/av_player)](https://pub.dev/packages/av_player)
+[![Pub Likes](https://img.shields.io/pub/likes/av_player)](https://pub.dev/packages/av_player)
+[![Pub Points](https://img.shields.io/pub/points/av_player)](https://pub.dev/packages/av_player)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/av_player?style=social)](https://github.com/FlutterPlaza/av_player)
+
+`Android` `iOS` `macOS` `Linux` `Windows` `Web`
+
+
+---
+
+
+## 🛠️ Developer Tools
+
+### flutter_compile
+> CLI that automates Flutter framework, DevTools, and engine contributor environment setup -- depot_tools, gclient sync, GN flags, and ninja builds.
+
+[![Pub Version](https://img.shields.io/pub/v/flutter_compile)](https://pub.dev/packages/flutter_compile)
+[![Pub Likes](https://img.shields.io/pub/likes/flutter_compile)](https://pub.dev/packages/flutter_compile)
+[![Pub Points](https://img.shields.io/pub/points/flutter_compile)](https://pub.dev/packages/flutter_compile)
+[![GitHub Stars](https://img.shields.io/github/stars/FlutterPlaza/flutter_compile?style=social)](https://github.com/FlutterPlaza/flutter_compile)
+
+Want to contribute to the Flutter engine but dread the setup? One command.
+
+
+---
+
+
+## 📱 Applications
+
+| Project | Description |
+| :--- | :--- |
+| [FinFlow](https://github.com/FlutterPlaza/FinFlow) | Financial management app with a seamless user experience |
+| [finflow-grpc-backend](https://github.com/FlutterPlaza/finflow-grpc-backend) | gRPC + Dart backend with JWT, Google, Facebook, Apple & Twitter OAuth2 |
+
+
+---
+
+
+## 🚀 Currently Working On
+
+| Project | Status | What's Happening |
+| :--- | :--- | :--- |
+| **face_gate** | 🔨 Active | Multi-provider age verification with 7 adapter packages |
+| **av_player** | 🔨 Active | Native PiP & full media controls across 6 platforms |
+| **secure_watermark** | 🆕 New | DLP watermark overlays to trace content leaks |
+| **no_screen_mirror** | 🆕 New | Screen mirroring & external display detection |
+| **no_tapjack** | 🆕 New | Anti-tapjacking & overlay attack protection |
+
+
+---
 
 
 🔗 [[Website]](https://www.flutterplaza.com/) | [[FlutterPlaza Packages]](https://pub.dev/publishers/flutterplaza.com/packages) | [[Twitter]](https://twitter.com/FlutterPlaza) | [[LinkedIn]](https://www.linkedin.com/company/flutterplaza)
-
-
-## References
-This document was adapted from the OSS [AsyncAPI Initiative](https://github.com/asyncapi).
